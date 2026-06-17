@@ -18,9 +18,11 @@
 
 <style scope>
 .about-container {
-    background-color: #e2ceb3;
+    font-family: 'Cinzel', serif;
+    
     font-size: 25px;
     padding: 25px;
+    color: #ffffff;
 }
 .section-titles {
     text-decoration: underline;
