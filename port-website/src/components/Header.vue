@@ -5,10 +5,10 @@
     <header class="header">
         <h1 class="title">James Steele</h1>
         <nav class="button-row">
-            <button class="button" @click="$router.push('/')">Home</button>
+            <button class="button" @click="$router.push('/about')">Home</button>
             <button class="button" @click="$router.push('/godot-python')">Python/Godot</button>
-            <button class="button">Vue/.net</button>
-            <button class="button">Contant</button>
+            <button class="button" @click="$router.push('/vue-net')">Vue/.net</button>
+            <button class="button" @click="$router.push('/contact')">Contant</button>
         </nav>
     </header>
 </template>
