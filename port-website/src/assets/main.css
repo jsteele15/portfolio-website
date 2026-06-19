@@ -3,19 +3,13 @@
 #app {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 1rem;
-  height: 100vh;
+  height: 100%;
   font-weight: normal;
-  background:
-    radial-gradient(circle at 20% 20%, rgba(255,255,255,0.03), transparent 60%),
-    radial-gradient(circle at 80% 30%, rgba(255,255,255,0.02), transparent 70%),
-    radial-gradient(circle at 50% 80%, rgba(255,255,255,0.04), transparent 60%),
-    linear-gradient(to bottom, #000, #0d0d17, #0f0f1c, #161628);
-  
-  filter: contrast(110%) brightness(95%) saturate(110%);
+  background: #f0ebeb;
+
 }
 
 body {
-  color: #fbe8c1;
-  background: #000000;
+  color: #f0ebeb;
+  background: #f0ebeb;
 }

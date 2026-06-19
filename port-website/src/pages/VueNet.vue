@@ -4,8 +4,11 @@
 </script>
 
 <template>
-    <p>Everything ive made with vue and .Net</p>
+    <p class="vet-net">Everything ive made with vue and .Net</p>
 </template>
 
 <style scope>
+.vet-net {
+    background: #1e1f2f;
+}
 </style>

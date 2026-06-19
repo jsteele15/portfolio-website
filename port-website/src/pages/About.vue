@@ -19,7 +19,7 @@
 <style scope>
 .about-container {
     font-family: 'Cinzel', serif;
-    
+    background: #1e1f2f;
     font-size: 25px;
     padding: 25px;
     color: #ffffff;
